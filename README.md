@@ -31,9 +31,10 @@ This workshop provides step-by-step guidance on building a fully functional mult
 3. Create a Firebase project:
 
 - Go to the [Firebase Console](https://console.firebase.google.com/u/0/) and create a new project.
-- Add an app in the project. Retrieve your Firebase configuration values (apiKey, authDomain, etc.) for the app
 - Create a real time database for the project
 - Enable Anonymous Sign in in Authentication for the project
+- Add an app in the project. Retrieve your Firebase configuration values (apiKey, authDomain, etc.) for the app
+
 
 4. Set up environment variables:
 
