@@ -8,7 +8,6 @@ This workshop provides step-by-step guidance on building a fully functional mult
 
 ## Prerequisites
 
-- Basic understanding of React.js
 - Familiarity with JavaScript and ES6 syntax
 - Node.js and npm installed on your machine
 - Basic knowledge on setting up a Firebase project
