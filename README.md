@@ -11,7 +11,7 @@ This workshop provides step-by-step guidance on building a fully functional mult
 - Basic understanding of React.js
 - Familiarity with JavaScript and ES6 syntax
 - Node.js and npm installed on your machine
-- Basic knowlegdge on setting up a firebase project
+- Basic knowledge on setting up a Firebase project
 
 
 ## Setup
@@ -62,3 +62,14 @@ This workshop provides step-by-step guidance on building a fully functional mult
 ## About
 
 This project was created as part of a workshop conducted by me for [Google I/O Extended 2023 Enugu](https://gdg.community.dev/events/details/google-gdg-enugu-presents-google-io-extended-2023-enugu/). Feel free to explore the code and use it as a reference for building your own multiplayer games!
+
+## Images
+<img width="1512" alt="image" src="https://github.com/Somtozech/tic-tac-toe/assets/32250849/86b36601-3c88-463b-b323-258e4b3de6d4">
+<img width="1512" alt="image" src="https://github.com/Somtozech/tic-tac-toe/assets/32250849/e43858b7-553f-4da1-84bd-86d1c5c2cf7a">
+<img width="1512" alt="image" src="https://github.com/Somtozech/tic-tac-toe/assets/32250849/950ec410-03b4-46c8-a32a-e9fdf6f0f7bc">
+<img width="1512" alt="image" src="https://github.com/Somtozech/tic-tac-toe/assets/32250849/6c8517f4-559f-41d7-9097-5ccd159dbe4d">
+<img width="1512" alt="image" src="https://github.com/Somtozech/tic-tac-toe/assets/32250849/562c8105-724a-4047-8860-a91e260e34f7">
+<img width="1512" alt="image" src="https://github.com/Somtozech/tic-tac-toe/assets/32250849/83e092db-bb22-4ea3-87e1-77e209a4b6d3">
+
+
+
