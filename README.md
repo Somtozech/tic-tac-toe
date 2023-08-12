@@ -43,18 +43,22 @@ This workshop provides step-by-step guidance on building a fully functional mult
 - Add the following environment variables to the .env file:
   
    ```bash 
-   REACT_APP_FIREBASE_API_KEY=your_api_key
-   REACT_APP_FIREBASE_AUTH_DOMAIN=your_auth_domain
-   REACT_APP_FIREBASE_DATABASE_URL=your_database_url
-   REACT_APP_FIREBASE_PROJECT_ID=your_project_id
-   REACT_APP_FIREBASE_STORAGE_BUCKET=your_storage_bucket
-   REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
-   REACT_APP_FIREBASE_APP_ID=your_app_id
-   REACT_APP_FIREBASE_MEASUREMENT_ID=your_measurement_id
+   VITE_FIREBASE_API_KEY=your_api_key
+   VITE_FIREBASE_AUTH_DOMAIN=your_auth_domain
+   VITE_FIREBASE_DATABASE_URL=your_database_url
+   VITE_FIREBASE_PROJECT_ID=your_project_id
+   VITE_FIREBASE_STORAGE_BUCKET=your_storage_bucket
+   VITE_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
+   VITE_FIREBASE_APP_ID=your_app_id
+   VITE_FIREBASE_MEASUREMENT_ID=your_measurement_id
    ```
 
-1. Start the development server:
+5. Start the development server:
    
    ```bash 
    yarn dev
    ```
+
+## About
+
+This project was created as part of a workshop conducted by me for [Google I/O Extended 2023 Enugu](https://gdg.community.dev/events/details/google-gdg-enugu-presents-google-io-extended-2023-enugu/). Feel free to explore the code and use it as a reference for building your own multiplayer games!
